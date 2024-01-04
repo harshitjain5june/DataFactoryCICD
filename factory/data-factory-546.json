@@ -1,5 +1,13 @@
 {
 	"name": "data-factory-546",
+	"properties": {
+		"globalParameters": {
+			"GL_KV_NAME": {
+				"type": "string",
+				"value": "password123"
+			}
+		}
+	},
 	"location": "eastus",
 	"identity": {
 		"type": "SystemAssigned",
